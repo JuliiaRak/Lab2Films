@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Films>
+	<Film
+		Name="The blind side"
+		Genre="drama"
+		Year="2009"
+		Director="John Lee Hancock"
+		Country="USA"
+		Language="English">
+	</Film>
+	<Film
+		Name="The Notebook"
+		Genre="drama"
+		Year="2004"
+		Director="Nick Cassavetes"
+		Country="USA"
+		Language="English">
+	</Film>
+	<Film
+		Name="Hacksaw Ridge"
+		Genre="biografical film"
+		Year="2016"
+		Director="Mel Gibson"
+		Country="USA"
+		Language="English">
+	</Film>
+	<Film
+		Name="Pride and Prejudice"
+		Genre="drama"
+		Year="2005"
+		Director="Joe Wright"
+		Country="USA"
+		Language="English">
+	</Film>
+	<Film
+		Name="Little women"
+		Genre="drama"
+		Year="2019"
+		Director="Greta Gerwig"
+		Country="USA"
+		Language="English">
+	</Film>
+	<Film
+		Name="The vow"
+		Genre="drama"
+		Year="2012"
+		Director="Michael Sucsy"
+		Country="USA"
+		Language="English">
+	</Film>
+	<Film
+		Name="1+1"
+		Genre="drama/comedy"
+		Year="2011"
+		Director="Olivier Nakash"
+		Country="France"
+		Language="French">
+	</Film>
+	<Film
+		Name="The Man from U.N.C.L.E."
+		Genre="adventures"
+		Year="2015"
+		Director="Guy Ritchie"
+		Country="USA"
+		Language="English">
+	</Film>
+	<Film
+		Name="The Great Gatsby"
+		Genre="romantic drama"
+		Year="2013"
+		Director="Baz Luhrmann"
+		Country="USA"
+		Language="English">
+		</Film>
+	<Film
+		Name="In Time"
+		Genre="science fiction-action"
+		Year="2011"
+		Director="Andrew Niccol"
+		Country="USA"
+		Language="English">
+	</Film>
+</Films>
